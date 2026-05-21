@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import BackgroundParticles from "./components/BackgroundParticles";
 import { motion, AnimatePresence } from 'motion/react';
 import { Smartphone, CheckCircle, Settings, HelpCircle, Loader } from 'lucide-react';
 
