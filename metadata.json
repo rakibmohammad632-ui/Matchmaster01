@@ -1,0 +1,6 @@
+{
+  "name": "Match Masters Coin & Booster Claim",
+  "description": "A Match Masters themed portal to unlock coin and booster rewards. Easy verification process and simple dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
