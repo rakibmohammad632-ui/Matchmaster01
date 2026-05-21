@@ -3,10 +3,10 @@ import { motion, AnimatePresence } from 'motion/react';
 import { Smartphone, CheckCircle, Settings, HelpCircle, Loader } from 'lucide-react';
 
 import { AppStep, Platform, UserSession } from './types.ts';
-import { BackgroundParticles } from './components/BackgroundParticles.tsx';
-import { LogoBanner } from './components/LogoBanner.tsx';
-import { CoinIcon } from './components/CoinIcon.tsx';
-import { BoosterIcon } from './components/BoosterIcon.tsx';
+import { BackgroundParticles } from './src/components/BackgroundParticles.tsx';
+import { LogoBanner } from './src/components/LogoBanner.tsx';
+import { CoinIcon } from './src/components/CoinIcon.tsx';
+import { BoosterIcon } from './src/components/BoosterIcon.tsx';
 
 export default function App() {
   // Session States
